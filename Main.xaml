@@ -73,7 +73,7 @@
         <OutArgument x:TypeArguments="s:Int32[]">[ContainerArray]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="s:Int32[]">[{9,3,7,23,12,45}]</InArgument>
+        <InArgument x:TypeArguments="s:Int32[]">[{9,6,5,43,17,45,91}]</InArgument>
       </Assign.Value>
     </Assign>
     <Assign sap:VirtualizedContainerService.HintSize="582,61" sap2010:WorkflowViewState.IdRef="Assign_2">
